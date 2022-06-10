@@ -1,0 +1,49 @@
+[
+  {
+    "image": "https://i.ibb.co/PDMCxgv/project-1.png",
+    "name": "Lukas Car-Parts",
+    "des": "This is a site for them who want parts for cars. They will find difference accsessiories here.",
+    "keyFeatures": "",
+    "technologies": "",
+    "liveLink": "",
+    "clientSide": "",
+    "serverSide": ""
+  },
+  {
+    "image": "https://i.ibb.co/WVGwZ9y/project-2.png",
+    "name": "Bicycle Inventory",
+    "des": "This is a site for them who loves bicycle and love to customize their bicycle. They will find difference accsessiories here.",
+    "keyFeatures": "",
+    "technologies": "",
+    "liveLink": "",
+    "clientSide": "",
+    "serverSide": ""
+  },
+  {
+    "image": "https://i.ibb.co/FmdjjXq/project-3.png",
+    "name": "Psychiatrist Website",
+    "keyFeatures": "",
+    "technologies": "",
+    "liveLink": "",
+    "clientSide": "",
+    "serverSide": ""
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "name": "Miles Malone",
+    "keyFeatures": "",
+    "technologies": "",
+    "liveLink": "",
+    "clientSide": "",
+    "serverSide": ""
+  },
+  {
+    "image": "http://placehold.it/32x32",
+    "name": "Miles Malone",
+    "keyFeatures": "",
+    "technologies": "",
+    "liveLink": "",
+    "clientSide": "",
+    "serverSide": ""
+  }
+]
